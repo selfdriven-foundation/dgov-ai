@@ -106,7 +106,4 @@ Moving forward, further dialogue with community stakeholders and ongoing refinem
 
 ---
 
-*References:*
-citeturn0search1, citeturn0search6, citeturn0search7, citeturn0search8
-
 This discussion paper is intended as a basis for further community debate and research into the optimal design of compensation mechanisms for DReps within Cardano’s governance framework.
