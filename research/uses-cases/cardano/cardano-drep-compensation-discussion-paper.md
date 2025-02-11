@@ -1,18 +1,16 @@
-# Model
+### Model
 
 o3-mini-high
 
-# Prompt
+### Prompt
 
 Based on the Cardano Governance Framework, create a discussion paper, including risks analysis, as to whether DReps should be compensated.
 
-# URL
+### URL
 
 https://chatgpt.com/share/67aad8de-d878-800d-a5cb-53dd41703c14
 
 ----
-
-# Response
 
 Below is a discussion paper that examines whether DReps should be compensated under Cardano’s evolving governance framework. The paper outlines the roles of DReps, surveys potential compensation models, and provides a risk analysis of the various approaches.
 
