@@ -27,7 +27,7 @@
 
 ### Supported By
 - [**selfdriven.foundation**](https://selfdriven.foundation)
-- [Contributors](MAINTAINERS.md)
+- [Contributors/Maintainers](MAINTAINERS.md)
 
 ----
 [dgov.ai](https://dgov.ai)
