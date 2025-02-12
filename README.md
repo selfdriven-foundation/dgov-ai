@@ -7,7 +7,7 @@
 
 ### Scope
 - GenAI as a component of Decentralised Governance Frameworks
-- Use of [skillzeb](https://skillseb.io) Community Templates for AI alignment
+- Use of [skillzeb](https://skillseb.io) Community Templates for GenAI alignment
 
 ### Research
 - [Use-Cases](https://github.com/selfdriven-foundation/dgov-ai/tree/main/research/use-cases)
@@ -24,6 +24,10 @@
 - [skillzeb.io](https://skillseb.io) - templates.
 - [selfdriven.foundation](https://selfdriven.foundation) - framework.
 - [dgov.education](https://dgov.education)
+
+### Supported By
+- [**selfdriven.foundation**](https://selfdriven.foundation).
+- [Contributors](CONTRIBUTING.md)
 
 ----
 [dgov.ai](https://dgov.ai)
