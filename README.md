@@ -1,4 +1,4 @@
-## Helping communities wth decentralised governance through the use of GenAI.
+## Helping self-actuating communities with decentralised governance via the use of GenAI.
 
 ### Status
 - **Research & Development**
