@@ -26,7 +26,7 @@
 - [dgov.education](https://dgov.education)
 
 ### Supported By
-- [**selfdriven.foundation**](https://selfdriven.foundation).
+- [**selfdriven.foundation**](https://selfdriven.foundation)
 - [Contributors](CONTRIBUTING.md)
 
 ----
