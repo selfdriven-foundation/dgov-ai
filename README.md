@@ -8,6 +8,7 @@
 ### Scope
 - GenAI as a component of Decentralised Governance Frameworks
 - Use of [skillzeb](https://skillseb.io) Community Templates for GenAI alignment
+- "What matters more than the output is the input"
 
 ### Research
 - [Use-Cases](https://github.com/selfdriven-foundation/dgov-ai/tree/main/research/use-cases)
