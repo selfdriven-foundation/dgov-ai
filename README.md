@@ -25,6 +25,7 @@
 - [skillzeb.io](https://skillseb.io) - templates.
 - [selfdriven.foundation](https://selfdriven.foundation) - framework.
 - [dgov.education](https://dgov.education)
+- [gitingest.com](https://gitingest.com/selfdriven-foundation/dgov-ai) - ingest github repo.
 
 ### Supported By
 - [**selfdriven.foundation**](https://selfdriven.foundation)
